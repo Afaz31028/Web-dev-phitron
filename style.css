@@ -27,3 +27,24 @@
     align-items: center;
     background-color: beige;
 }
+.heading{
+    text-align: center;
+    color: rgb(142, 7, 36);
+}
+.portfolio-container-1{
+    border: 1px solid black;
+    width: 250px;
+    height: 320px;
+    background-color: black;
+    color: white;
+}
+.bg-warning{
+    color: black;
+}
+.portfolio-container-2{
+    border: 1px solid black;
+    width: 250px;
+    height: 340px;
+    background-color: black;
+    color: white;
+}
