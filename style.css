@@ -81,3 +81,34 @@
 .degree{
     color: rgb(13, 71, 199);
 }
+.contact-likha{
+    text-align: center;
+}
+.label{
+    align-items: center;
+    width: 400px;
+    height: 300px;
+    box-shadow: 3px 3px 8px red;
+    align-items: center;
+}
+.comment{
+    height: 80px;
+}
+.btn{
+    margin-left: 100px;
+    width: 250px;
+}
+.footer-container{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 100px;
+}
+.footer-icon{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.footer-container{
+    padding-top: 20px;
+}
