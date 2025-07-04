@@ -1,3 +1,7 @@
+.body
+{
+    width:1500px;
+}
 .logo-img{
     width: 40px;
     height: 70px;
@@ -103,12 +107,11 @@
     background-color: black;
     color: white;
     height: 100px;
+    width: 1513px;
+    padding: 7px;
 }
 .footer-icon{
     display: flex;
     justify-content: center;
     gap: 20px;
-}
-.footer-container{
-    padding-top: 20px;
 }
