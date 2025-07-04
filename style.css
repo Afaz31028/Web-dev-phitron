@@ -34,17 +34,50 @@
 .portfolio-container-1{
     border: 1px solid black;
     width: 250px;
-    height: 320px;
+    height: 310px;
     background-color: black;
     color: white;
 }
 .bg-warning{
     color: black;
+    text-align: center;
 }
 .portfolio-container-2{
     border: 1px solid black;
     width: 250px;
-    height: 340px;
+    height: 312px;
     background-color: black;
     color: white;
+}
+.btn-language{
+    list-style: none;
+    gap: 10px;
+}
+.tag{
+    background-color: rgb(82, 85, 81);
+    padding: 4px;
+}
+.expertise{
+    list-style: none;
+    gap: 13px;
+    font-size: 15px;
+}
+.Qualification{
+    align-items: center;
+}
+.background{
+    text-align: center;
+    margin-left: 40px;
+}
+.education{
+    background-color: rgb(226, 131, 14);
+    font-style: inherit;
+    color :black;
+    width: 320px;
+}
+.instituition{
+    color: rgb(15, 121, 56);
+}
+.degree{
+    color: rgb(13, 71, 199);
 }
