@@ -1,6 +1,6 @@
 .body
 {
-    width: 1500px;
+    width:100%;
 }
 .logo-img{
     width: 40px;
@@ -107,7 +107,6 @@
     background-color: black;
     color: white;
     height: 100px;
-    width: 1513px;
     padding: 7px;
 }
 .footer-icon{
