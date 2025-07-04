@@ -5,6 +5,7 @@
 .navbar-container{
     background-color:rgb(14, 181, 210);
     font-size: 20px;
+    width: 100%;
 }
 .nav-item{
     list-style: none;
@@ -26,6 +27,7 @@
 .banner-container{
     align-items: center;
     background-color: beige;
+    width: 100%;
 }
 .heading{
     text-align: center;
@@ -33,10 +35,9 @@
 }
 .portfolio-container-1{
     border: 1px solid black;
-    width: 250px;
-    height: 310px;
     background-color: black;
     color: white;
+    width: 100%;
 }
 .bg-warning{
     color: black;
@@ -44,10 +45,9 @@
 }
 .portfolio-container-2{
     border: 1px solid black;
-    width: 250px;
-    height: 312px;
     background-color: black;
     color: white;
+    width: 100%;
 }
 .btn-language{
     list-style: none;
