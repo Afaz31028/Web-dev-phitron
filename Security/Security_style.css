@@ -1,0 +1,238 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-container{
+    height:180px;
+    background-color: rgb(206,178,21);
+    display: flex;
+    justify-content: space-around;
+}
+.logo-img{
+    padding: 10px;
+    width: 100px;
+    height: 140px;
+}
+.navbar-right{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    list-style: none;
+    font-size: 45px;
+    color:black;
+}
+li:hover{
+    background-color: rgb(60, 189, 97);
+    cursor: pointer;
+}
+.banner-container{
+    height: 900px;
+    display: flex;
+    justify-content:space-evenly;
+    background-image: url('Images/9019808.jpg');
+    background-repeat:repeat-x;
+    background-size:cover;
+}
+.banner-left{
+    color: white;
+    margin-left: 500px;
+    margin-top: 450px;
+    font-size: 45px;
+}
+.banner-right{
+    height: 100%;
+    margin-right: 200px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.text-2{
+    font-size: 55px;
+    color: gold;
+}
+.btn-1{
+    width: 140px;
+    height: 60px;
+    margin-top: 15px;
+    background-color: rgb(64, 171, 98);
+    font-size: 25px;
+    margin-left: 220px;
+    border: none;
+}
+.gaurd-img{
+    margin-top: 90px;
+    height: 90%;
+}
+.btn-1:hover{
+    background-color: chocolate;
+    cursor: pointer;
+}
+.logo-container{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    background-color: rgb(222, 222, 212);
+}
+.Services-heading{
+    margin-top: 50px;
+    font-size: 90px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(49, 177, 7);
+}
+.services-container{
+    margin-top: 50px;
+    align-items: center;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.network{
+    padding: 10px;
+    margin-left: 50px;
+    width: 550px;
+    height: 580px;
+    box-shadow:4px 4px 20px red;
+}
+.service-img{
+    width: 250px;
+    height: 200px;
+    margin-left: 140px;
+}
+.service-img-2{
+    margin-top: 20px;
+    width: 150px;
+    height: 150px;
+    margin-left: 180px;
+    margin-bottom: 30px;
+}
+.service-title{
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+}
+.service-des{
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 35px;
+    text-align:center;
+}
+.line-img{
+    margin-left: 90px;
+    width: 380px;
+    height: 80px;
+}
+.contact-us-container{
+    margin-top: 170px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact-left{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.contact-right{
+    width: 25%;
+}
+.contact-img{
+    width: 1000px;
+    height: 800px;
+}
+.btn-2{
+    width: 140px;
+    height: 60px;
+    margin-top: 15px;
+    background-color: rgb(64, 171, 98);
+    font-size: 25px;
+    border: none;
+}
+.contact-heading{
+    font-size: 60px;
+    color: rgb(160, 150, 8);
+}
+.contact-des{
+    margin-top: 30px;
+    font-size: 35px;
+}
+.contact-icon{
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+    font-size: 60px;
+    color: rgb(26, 11, 190);
+}
+.contact-num{
+    margin-top: 20px;
+    font-size: 50px;
+}
+.footer-container{
+    height: 500px;
+    background-color:navy;
+}
+.footer-1{
+    display: flex;
+    justify-content: space-around;
+    font-size: 60px;
+    color: white;
+    border-bottom: 1px solid black;
+    line-height: 1.5;
+}
+.link{
+    display: flex;
+    gap:50px;
+}
+.same{
+    margin-top: 30px;
+}
+.color-hr{
+    color: black;
+}
+.footer-2{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+.footer-heading{
+    font-size: 35px;
+    color: gold;
+}
+.list{
+    list-style: none;
+    font-size: 30px;
+    line-height: 1.2;
+}
+.comment{
+   line-height: 1.5;
+}
+.input{
+   width: 370px;
+   height: 70px;
+   padding: 4px;
+   background-color:rgb(61, 172, 94);
+   font-size: 30px;
+   margin-bottom: 20px;
+   color:black;
+}
+.btn-3{
+    width: 370px;
+    height: 60px;
+    font-size: 30px;
+    background-color: gold;
+}
+.footer-3{
+    margin-top: 20px;
+    background-color: rgb(14, 14, 96);
+    height: 80px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
